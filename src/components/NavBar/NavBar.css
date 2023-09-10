@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  position: fixed;
+  top: 0%;
+  width: 100%;
+  height: 30px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #111;
+  color: white;
+  margin-left: 0%;
+}
+
+.marketplace {
+  position: fixed;
+  left: 50px;
+  margin-bottom: 20px;
+  margin-top: 2px;
+}
+
+.bal {
+  margin: 12px;
+  font-size: 18px;
+  position: absolute;
+  right: 150px;
+}
+.withdraw {
+  margin: 12px;
+  font-size: 18px;
+  position: absolute;
+  right: 370px;
+}
+
+.button {
+  position: fixed;
+  right: 20px;
+  width: 92px;
+}
